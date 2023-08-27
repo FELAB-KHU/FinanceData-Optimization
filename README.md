@@ -18,6 +18,15 @@ Implement portfolio optimization through the concept of optimization and scipy's
 <br>
 <br>
 
+## 사사 표기
+이 코드는 2023년도 정부(과학기술정보통신부)의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임 (No.RS-2022-00155911, 인공지능융합혁신인재양성(경희대학교)) <br>
+
+<br> (eng) <br>
+This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.RS-2022-00155911, Artificial Intelligence Convergence Innovation Human Resources Development (Kyung Hee University)) <br>
+
+<br>
+<br>
+
 ## 작성자 <br>
 Chanig Gi Son<br>
 Master student, Department of Big Data Analytics, Graduate School, Kyung Hee University<br>
