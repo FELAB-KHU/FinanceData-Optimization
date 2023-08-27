@@ -1,6 +1,6 @@
 # FinanceData-Optimization
 
-# 파일 설명
+## 파일 설명
 📃 Finance_Data_FELAB는 재무 데이터를 가져오기 위한 코드입니다. <br>
 Finance Datareader, pykrx, yfinance, Panda-Datareader의 여러 함수를 설명하고 코드로 구현하는 방법을 설명합니다. <br>
 <br> (eng) <br>
@@ -17,7 +17,7 @@ Implement portfolio optimization through the concept of optimization and scipy's
 
 <br>
 
-📢 # <b> 작성자 </b><br>
+📢 ## 작성자 <br>
 Chanig Gi Son<br>
 Master student, Department of Big Data Analytics, Graduate School, Kyung Hee University<br>
 <br>
