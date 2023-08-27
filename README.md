@@ -1,7 +1,7 @@
 # FinanceData-Optimization
 
-Finance_Data_FELAB는 재무 데이터를 가져오기 위한 코드입니다
-Finance Datareader, pykrx, yfinance, Panda-Datareader의 여러 함수를 설명하고 코드로 구현하는 방법을 설명합니다.
+Finance_Data_FELAB는 재무 데이터를 가져오기 위한 코드입니다. <br>
+Finance Datareader, pykrx, yfinance, Panda-Datareader의 여러 함수를 설명하고 코드로 구현하는 방법을 설명합니다. <br>
 (eng)
 Finance_Data_FELab is the code for importing financial data
 Explain how to use several functions of Finance Datareader, pykrx, yfinance, and pandas-datareader and implement them in code.
