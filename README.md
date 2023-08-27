@@ -17,7 +17,7 @@ Implement portfolio optimization through the concept of optimization and scipy's
 
 <br>
 
-📢 ## 작성자 <br>
+## 작성자 <br>
 Chanig Gi Son<br>
 Master student, Department of Big Data Analytics, Graduate School, Kyung Hee University<br>
 <br>
