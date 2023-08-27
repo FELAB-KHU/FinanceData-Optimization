@@ -29,7 +29,7 @@ This work was supported by Institute of Information & communications Technology 
 
 ## 작성자 <br>
 Chanig Gi Son<br>
-Master student, Department of Big Data Analytics, Graduate School, Kyung Hee University<br>
+Master's student, Financial Engineering Lab, Department of Big Data Analytics, Graduate School, Kyung Hee University<br>
 <br>
 Jang Ho Kim, Ph.D.<br>
 Associate professor, Department of Industrial and Management Systems Engineering, College of Engineering, Kyung Hee University <br>
