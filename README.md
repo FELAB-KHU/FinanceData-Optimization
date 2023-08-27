@@ -11,10 +11,11 @@ Explain how to use several functions of Finance Datareader, pykrx, yfinance, and
 
 📃 Optimization_FELAB은 포트폴리오를 최적화하는 방법에 대한 코드입니다. <br>
 최적화의 개념과 SLSQP를 사용한 scipy의 minimize 함수를 통해 포트폴리오 최적화를 구현합니다. <br>
-(eng) <br>
+<br> (eng) <br>
 Optimization_FELab is code for how to optimize your portfolio. <br>
 Implement portfolio optimization through the concept of optimization and scipy's minimization function using SLSQP. <br>
 
+<br>
 <br>
 
 ## 작성자 <br>
